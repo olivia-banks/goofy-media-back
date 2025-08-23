@@ -28,6 +28,7 @@ The Discord Webhooks are optional but probably nice to have
 
 
 ### How to run
+* `mkdir data`
 * `npm install`
 * `npm start`
 
